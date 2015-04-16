@@ -1,0 +1,532 @@
+[
+  {
+    "name": "George Washington",
+    "party": "None",
+    "years": [
+      1789,
+      1790,
+      1791,
+      1792,
+      1793,
+      1794,
+      1795,
+      1796
+    ],
+    "_id": 1
+  },
+  {
+    "name": "John Adams",
+    "party": "Federalist",
+    "years": [
+      1797,
+      1798,
+      1799,
+      1800
+    ],
+    "_id": 2
+  },
+  {
+    "name": "Thomas Jefferson",
+    "party": "Democratic-Republican",
+    "years": [
+      1801,
+      1802,
+      1803,
+      1804,
+      1805,
+      1806,
+      1807,
+      1808
+    ],
+    "_id": 3
+  },
+  {
+    "name": "James Madison",
+    "party": "Democratic-Republican",
+    "years": [
+      1809,
+      1810,
+      1811,
+      1812,
+      1813,
+      1814,
+      1815,
+      1816
+    ],
+    "_id": 4
+  },
+  {
+    "name": "James Monroe",
+    "party": "Democratic-Republican",
+    "years": [
+      1817,
+      1818,
+      1819,
+      1820,
+      1821,
+      1822,
+      1823,
+      1824
+    ],
+    "_id": 5
+  },
+  {
+    "name": "John Quincy Adams",
+    "party": "Democratic-Republican",
+    "years": [
+      1825,
+      1826,
+      1827,
+      1828
+    ],
+    "_id": 6
+  },
+  {
+    "name": "Andrew Jackson",
+    "party": "Democrat",
+    "years": [
+      1829,
+      1830,
+      1831,
+      1832,
+      1833,
+      1834,
+      1835,
+      1836
+    ],
+    "_id": 7
+  },
+  {
+    "name": "Martin Van Buren",
+    "party": "Democrat",
+    "years": [
+      1837,
+      1838,
+      1839,
+      1840
+    ],
+    "_id": 8
+  },
+  {
+    "name": "William Henry Harrison",
+    "party": "Whig",
+    "years": [
+      1841
+    ],
+    "_id": 9
+  },
+  {
+    "name": "John Tyler",
+    "party": "Whig",
+    "years": [
+      1841,
+      1842,
+      1843,
+      1844
+    ],
+    "_id": 10
+  },
+  {
+    "name": "James K. Polk",
+    "party": "Democrat",
+    "years": [
+      1845,
+      1846,
+      1847,
+      1848
+    ],
+    "_id": 11
+  },
+  {
+    "name": "Zachary Taylor",
+    "party": "Whig",
+    "years": [
+      1849
+    ],
+    "_id": 12
+  },
+  {
+    "name": "Millard Fillmore",
+    "party": "Whig",
+    "years": [
+      1850,
+      1851,
+      1852
+    ],
+    "_id": 13
+  },
+  {
+    "name": "Franklin Pierce",
+    "party": "Democrat",
+    "years": [
+      1853,
+      1854,
+      1855,
+      1856
+    ],
+    "_id": 14
+  },
+  {
+    "name": "James Buchanan",
+    "party": "Democrat",
+    "years": [
+      1857,
+      1858,
+      1859,
+      1860
+    ],
+    "_id": 15
+  },
+  {
+    "name": "Abraham Lincoln",
+    "party": "Republican",
+    "years": [
+      1861,
+      1862,
+      1863,
+      1864
+    ],
+    "_id": 16
+  },
+  {
+    "name": "Andrew Johnson",
+    "party": "National Union",
+    "years": [
+      1865,
+      1866,
+      1867,
+      1868
+    ],
+    "_id": 17
+  },
+  {
+    "name": "Ulysses S. Grant",
+    "party": "Republican",
+    "years": [
+      1869,
+      1870,
+      1871,
+      1872,
+      1873,
+      1874,
+      1875,
+      1876
+    ],
+    "_id": 18
+  },
+  {
+    "name": "Rutherford B. Hayes",
+    "party": "Republican",
+    "years": [
+      1877,
+      1878,
+      1879,
+      1880
+    ],
+    "_id": 19
+  },
+  {
+    "name": "James A. Garfield",
+    "party": "Republican",
+    "years": [
+      1881
+    ],
+    "_id": 20
+  },
+  {
+    "name": "Chester A. Arthur",
+    "party": "Republican",
+    "years": [
+      1881,
+      1882,
+      1883,
+      1884
+    ],
+    "_id": 21
+  },
+  {
+    "name": "Grover Cleveland",
+    "party": "Democrat",
+    "years": [
+      1885,
+      1886,
+      1887,
+      1888,
+      1893,
+      1894,
+      1895,
+      1896
+    ],
+    "_id": 22
+  },
+  {
+    "name": "Benjamin Harrison",
+    "party": "Republican",
+    "years": [
+      1889,
+      1890,
+      1891,
+      1892
+    ],
+    "_id": 23
+  },
+  {
+    "name": "William McKinley",
+    "party": "Republican",
+    "years": [
+      1897,
+      1898,
+      1899,
+      1900
+    ],
+    "_id": 24
+  },
+  {
+    "name": "Theodore Roosevelt",
+    "party": "Republican",
+    "years": [
+      1901,
+      1902,
+      1903,
+      1904,
+      1905,
+      1906,
+      1907,
+      1908
+    ],
+    "_id": 25
+  },
+  {
+    "name": "William Howard Taft",
+    "party": "Republican",
+    "years": [
+      1909,
+      1910,
+      1911,
+      1912
+    ],
+    "_id": 26
+  },
+  {
+    "name": "Woodrow Wilson",
+    "party": "Democrat",
+    "years": [
+      1913,
+      1914,
+      1915,
+      1916,
+      1917,
+      1918,
+      1919,
+      1920
+    ],
+    "_id": 27
+  },
+  {
+    "name": "Warren G. Harding",
+    "party": "Republican",
+    "years": [
+      1921,
+      1922
+    ],
+    "_id": 28
+  },
+  {
+    "name": "Calvin Coolidge",
+    "party": "Republican",
+    "years": [
+      1923,
+      1924,
+      1925,
+      1926,
+      1927,
+      1928
+    ],
+    "_id": 29
+  },
+  {
+    "name": "Herbert Hoover",
+    "party": "Republican",
+    "years": [
+      1929,
+      1930,
+      1931,
+      1932
+    ],
+    "_id": 30
+  },
+  {
+    "name": "Franklin Roosevelt",
+    "party": "Democrat",
+    "years": [
+      1933,
+      1934,
+      1935,
+      1936,
+      1937,
+      1938,
+      1939,
+      1940,
+      1941,
+      1942,
+      1943,
+      1944
+    ],
+    "_id": 31
+  },
+  {
+    "name": "Harry S. Truman",
+    "party": "Democrat",
+    "years": [
+      1945,
+      1946,
+      1947,
+      1948,
+      1949,
+      1950,
+      1951,
+      1952
+    ],
+    "_id": 32
+  },
+  {
+    "name": "Dwight D. Eisenhower",
+    "party": "Republican",
+    "years": [
+      1953,
+      1954,
+      1955,
+      1956,
+      1957,
+      1958,
+      1959,
+      1960
+    ],
+    "_id": 33
+  },
+  {
+    "name": "John F. Kennedy",
+    "party": "Democrat",
+    "years": [
+      1961,
+      1962
+    ],
+    "_id": 34
+  },
+  {
+    "name": "Lyndon B. Johnson",
+    "party": "Democrat",
+    "years": [
+      1963,
+      1964,
+      1965,
+      1966,
+      1967,
+      1968
+    ],
+    "_id": 35
+  },
+  {
+    "name": "Richard M. Nixon",
+    "party": "Republican",
+    "years": [
+      1969,
+      1970,
+      1971,
+      1972,
+      1973
+    ],
+    "_id": 36
+  },
+  {
+    "name": "Gerald Ford",
+    "party": "Republican",
+    "years": [
+      1974,
+      1975,
+      1976
+    ],
+    "_id": 37
+  },
+  {
+    "name": "Jimmy Carter",
+    "party": "Democrat",
+    "years": [
+      1977,
+      1978,
+      1979,
+      1980
+    ],
+    "_id": 38
+  },
+  {
+    "name": "Ronald Reagan",
+    "party": "Republican",
+    "years": [
+      1981,
+      1982,
+      1983,
+      1984,
+      1985,
+      1986,
+      1987,
+      1988
+    ],
+    "_id": 39
+  },
+  {
+    "name": "George Bush",
+    "party": "Republican",
+    "years": [
+      1989,
+      1990,
+      1991,
+      1992
+    ],
+    "_id": 40
+  },
+  {
+    "name": "Bill Clinton",
+    "party": "Democrat",
+    "years": [
+      1993,
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000
+    ],
+    "_id": 41
+  },
+  {
+    "name": "George W. Bush",
+    "party": "Republican",
+    "years": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008
+    ],
+    "_id": 42
+  },
+  {
+    "name": "Barack Obama",
+    "party": "Democrat",
+    "years": [
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015
+    ],
+    "_id": 43
+  }
+]
